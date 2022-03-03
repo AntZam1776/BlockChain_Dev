@@ -1,13 +1,3 @@
-Issue Screenshots... 
-
-This is the same errors from before, not sure if maybe I need to recreate my conda environment but everything seems to be running accordingly... I did uninstall and reinstall the streamlit module which did update it from streamlit 1.4.0 to streamlit 1.6.0, or something like that... Same issue occured... I double checked my mnemonic, double checked my private network and Ganache... Not sure where I'm going wrong here... I included some screenshot to show everything should be working correctly since updated missing the w3 through 'get_people(w3)'.  
-
-<img width="1201" alt="Screen Shot 2022-02-27 at 5 37 24 PM" src="https://user-images.githubusercontent.com/90947421/155912460-21a049a6-9311-412b-8f44-5029c9afdc76.png">
-<img width="1162" alt="Screen Shot 2022-02-27 at 5 37 16 PM" src="https://user-images.githubusercontent.com/90947421/155912462-79c675c8-4dff-4735-b985-72e9b72c2566.png">
-<img width="1060" alt="Screen Shot 2022-02-27 at 5 36 59 PM" src="https://user-images.githubusercontent.com/90947421/155912463-ca2216f0-7b6a-46d8-b417-699e8e0c5abe.png">
-<img width="1304" alt="Screen Shot 2022-02-27 at 5 36 49 PM" src="https://user-images.githubusercontent.com/90947421/155912465-149ee7c4-1b94-4f00-a2fe-53f131aa026b.png">
-
-
 # Module_19
 
 # Creating Blocks to Show examples of a BlockChain
@@ -53,6 +43,15 @@ To use this application please follow this process:
 3. In the operating envioronment of your choosing, as in deveoplment environment if desired, type "streamlit run fintech_finder.py". 
 4. Insert data accordingly.
 
+### Screenshots of usage...
+<img width="1203" alt="Screen Shot 2022-03-02 at 4 11 56 PM" src="https://user-images.githubusercontent.com/90947421/156500782-55cab267-1baa-4f36-b420-0c55698f1fb0.png">
+<img width="1357" alt="Screen Shot 2022-03-02 at 4 13 16 PM" src="https://user-images.githubusercontent.com/90947421/156500781-7658557e-2c44-417e-84a1-a309a68e2acd.png">
+<img width="1357" alt="Screen Shot 2022-03-02 at 4 13 37 PM" src="https://user-images.githubusercontent.com/90947421/156500780-3bdddf2b-7f86-4316-b2b6-89540ee1b8e0.png">
+<img width="1199" alt="Screen Shot 2022-03-02 at 4 14 06 PM" src="https://user-images.githubusercontent.com/90947421/156500778-b44d00b7-3879-41df-98c3-df5cf87992b8.png">
+<img width="1200" alt="Screen Shot 2022-03-02 at 4 14 55 PM" src="https://user-images.githubusercontent.com/90947421/156500777-7feba772-19f0-48b4-9187-04076bc204c8.png">
+<img width="1203" alt="Screen Shot 2022-03-02 at 4 15 23 PM" src="https://user-images.githubusercontent.com/90947421/156500774-68aaa200-eb55-4bfa-8e76-72626434369b.png">
+
+
 ---
 
 ## Contributors
@@ -62,6 +61,9 @@ Contributors include:
 
     - Assistance from Tutors and Teachers Assistants:
         Jennifer Zhang, Corey Recai
+        
+        
+ 
 
 ---
 
